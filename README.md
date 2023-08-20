@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on a virtual assistant.<br>Ready to collaborate on any python project and can learn new concepts fast if needed.<br>Currently learning AI-ML in Python.<br>You can ask me about any query related to Python, will help with the best i got.<br>Fun fact - I also write poetry and Horror/Mystery Fiction
+I am currently working on a virtual assistant.<br>Ready to collaborate on any python project and can learn new concepts fast if needed.<br>Currently learning AI-ML in Python.<br>You can ask me about any query related to Python, will help with the best i got.<br>Fun fact - I also write poetry and Horror/Mystery Fiction<br>Learning Web-developement as well.<br>In pursuit of becoming a full stack developer.
 
 
 ## 🌐 Socials:
