@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Python & AIML projects**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/shivrajanand](https://linktr.ee/shivrajanand)
+- 👨‍💻 Know more about me via my linktree [https://linktr.ee/shivrajanand](https://linktr.ee/shivrajanand)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python** & **AIML**
 
 - 📫 How to reach me **shivrajanand022002@gmail.com**
 
